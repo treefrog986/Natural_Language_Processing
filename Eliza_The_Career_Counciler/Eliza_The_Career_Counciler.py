@@ -1,6 +1,5 @@
 
 #re is the standard library for regular expressions
-from os import O_NDELAY
 import re
 #random is used to randommly pick something from an arrray of items
 import random
