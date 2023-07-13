@@ -6,3 +6,4 @@ This course showcases how written text can be processed and annalyzed using comp
 This project is a standard chatbot 
 
 this is a test
+This is test 2
